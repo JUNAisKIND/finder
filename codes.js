@@ -1,2 +1,5 @@
-// ptag = document.querySelector("#ptag")
-// let data = JSON.parse(songs)
+ptag = document.querySelector("#ptag")
+let data = JSON.parse(songs)
+fetch('https://github.com/JUNAisKIND/finder/blob/master/songs.json')
+  .then(Response => Response.text())
+  .then(text => document.querySelector("ptag").innerHTML = text)
