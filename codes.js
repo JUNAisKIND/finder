@@ -1,7 +1,5 @@
-ptag = document.querySelector("#ptag")
-let data = "{}"
+ptag = document.querySelector("#ptag");
+let songs;
 fetch('https://junaiskind.github.io/finder/songs.json')
   .then(Response => Response.text())
-  .then(text => data = text)
-
-const songs = JSON.parse(data)
+  .then(text => songs = JSON.parse(text));
