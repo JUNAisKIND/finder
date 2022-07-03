@@ -111,7 +111,7 @@ main #search-result {
 
 main .musicbox {
   margin-top: 15px;
-  height: 300px;
+  height: 315px;
   display: flex;
 
   flex-direction: column;
@@ -187,7 +187,7 @@ main .musicbox .music-section article .footer {
   word-break: break-all;
 }
 
-@media screen and (min-width: 650px) {
+@media screen and (min-width: 430px) {
 
   main .search-box input {
     height: 2.5vw;
