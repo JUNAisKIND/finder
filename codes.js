@@ -21,11 +21,15 @@ String.prototype.noSpaceLower = function() {
   return this.replaceAll(" ", "").toLowerCase();
 }
 
+String.prototype.containsIgnoreCase = function(text) {
+  return this.noSpaceLower().includes(text.noSpaceLower())
+}
+
 function* getSongsContainsWith(text, admit) {
   for(let name in songs) {
 
     //text를 포함한 제목을 가진 songs yield
-    if(name.noSpaceLower().includes(text.noSpaceLower()))
+    if(name.containsIgnoreCase(text))
       for(let element of songs[name])
         if(admit.includes(element.type)) //admit 허용 목록에 포함된 songs
           yield [name, element]; //0: name, 1: song
