@@ -21,25 +21,14 @@ String.prototype.noSpaceLower = function() {
   return this.replaceAll(" ", "").toLowerCase();
 }
 
-
-function* getSongsContains(text) {
-  for(let name in songs) {
-    if(name.noSpaceLower().includes(text.noSpaceLower()))
-      yield name;
-  }
-}
-
 function* getSongsContainsWith(text, admit) {
   for(let name in songs) {
 
     //text를 포함한 제목을 가진 songs yield
-    if(name.noSpaceLower().includes(text.noSpaceLower())) {
-      for(let element of songs[name]) {
-        //admit 허용 목록에 포함된 songs
-        if(admit.includes(element.type)) 
+    if(name.noSpaceLower().includes(text.noSpaceLower()))
+      for(let element of songs[name])
+        if(admit.includes(element.type)) //admit 허용 목록에 포함된 songs
           yield [name, element]; //0: name, 1: song
-      }
-    }
   }
 }
 
@@ -92,8 +81,22 @@ function returnScorebox(song) {
 }
 
 const input = document.querySelector("main .search-box input");
-const search_result = document.querySelector("#search-result");
-input.addEventListener("keyup", (event) => {
+const checkboxes = document.querySelectorAll("main .search-options input");
+
+function* filter(func, iter) {
+  for(let value of iter)
+    if(func(value)) yield value
+}
+
+function map(func, iter) {
+  let lis = [];
+  for(let value of iter)
+    lis.push(func(value))
+  return lis;
+}
+
+function update() {
+  const search_result = document.querySelector("#search-result");
 
   if(input.value == "") {
     search_result.innerHTML = "검색결과가 없습니다.";
@@ -102,30 +105,34 @@ input.addEventListener("keyup", (event) => {
 
   const musicbox = document.querySelector("main .musicbox");
 
-  musicbox.innerHTML = ""
+  musicbox.innerHTML = "";
 
+  let admit = map(
+    (value) => value.id, //return id
+    filter((value) => value.checked, checkboxes) //checked 가 true인 checkbox
+  );
 
-  let admit = []
-  for(let ele of document.querySelectorAll("main .search-options input:checked")) {
-    admit.push(ele.id)
-  }
+  for(let element of getSongsContainsWith(input.value, admit)) {
+    const newItem_div = document.createElement("div");
+    const newItem_article = document.createElement("article");
 
-  for(let a of getSongsContainsWith(input.value, admit)) {
-
-    const newItem_div = document.createElement("div")
-    const newItem_article = document.createElement("article")
-
-    newItem_div.className = "titlebox"
-    newItem_div.innerHTML = `<h3><af-t>${a[0]}</af-t></h3>`
-    newItem_article.innerHTML = returnScorebox(a[1]);
+    newItem_div.className = "titlebox";
+    newItem_div.innerHTML = `<h3><af-t>${element[0]}</af-t></h3>`;
+    newItem_article.innerHTML = returnScorebox(element[1]);;
     musicbox.appendChild(newItem_div);
     musicbox.appendChild(newItem_article);
   }
 
   const num = musicbox.getElementsByTagName("article").length;
   if(num == 0)
-    search_result.innerHTML = "검색결과가 없습니다."
+    search_result.innerHTML = "검색결과가 없습니다.";
   else
     search_result.innerHTML = `${num} 개의 악보가 있습니다.`;
+}
 
-})
+
+
+input.addEventListener("keyup", update);
+checkboxes.forEach((element) => {
+  element.addEventListener("click", update);
+});
