@@ -133,7 +133,7 @@ function update() {
   if(num == 0)
     search_result.innerHTML = "검색결과가 없습니다.";
   else
-    search_result.innerHTML = `${num} 개의 악보가 있습니다.`;
+    search_result.innerHTML = `${num} 개의 악보가 검색되었습니다.`;
 }
 
 
