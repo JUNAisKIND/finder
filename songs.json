@@ -2,10 +2,7 @@
   "좋으신 하나님": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "6"
-      ],
+      "location": ["1", "6"],
       "code": "C",
       "reference": null
     },
@@ -25,10 +22,7 @@
   "예수 사랑해요": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "7"
-      ],
+      "location": ["1", "7"],
       "code": "C",
       "reference": "알렐루야"
     },
@@ -42,10 +36,7 @@
   "주의 사랑으로 사랑합니다": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "8"
-      ],
+      "location": ["1", "8"],
       "code": "C",
       "reference": "형제 안에서"
     }
@@ -53,10 +44,7 @@
   "축복의 통로": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "9"
-      ],
+      "location": ["1", "9"],
       "code": "C",
       "reference": "당신을 통하여서 열방이"
     },
@@ -70,19 +58,13 @@
   "목마른 사슴": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "10"
-      ],
+      "location": ["1", "10"],
       "code": "C",
       "reference": "주님 만이 나의 힘"
     },
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "46"
-      ],
+      "location": ["2", "46"],
       "code": "D",
       "reference": "주님 만이 나의 힘"
     },
@@ -96,10 +78,7 @@
   "예배드림이  기쁨됩니다": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "11"
-      ],
+      "location": ["1", "11"],
       "code": "C",
       "reference": "무엇과도 누구와도"
     }
@@ -107,10 +86,7 @@
   "먼저 그 나라와 의를 구하라": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "12"
-      ],
+      "location": ["1", "12"],
       "code": "C",
       "reference": "할렐루야"
     }
@@ -118,10 +94,7 @@
   "주님의 시간에": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "13"
-      ],
+      "location": ["1", "13"],
       "code": "C",
       "reference": "하루 하루 살동안"
     },
@@ -141,10 +114,7 @@
   "Still": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "14"
-      ],
+      "location": ["1", "14"],
       "code": "C",
       "reference": "거친파도 날 향해 와도"
     },
@@ -158,10 +128,7 @@
   "이와 같은 때엔": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "16"
-      ],
+      "location": ["1", "16"],
       "code": "C",
       "reference": "주님 사랑해요"
     }
@@ -169,19 +136,13 @@
   "당신을 향한 노래": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "18"
-      ],
+      "location": ["1", "18"],
       "code": "C",
       "reference": "사랑해요 축복해요"
     },
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "10"
-      ],
+      "location": ["2", "10"],
       "code": "C",
       "reference": "사랑해요 축복해요"
     },
@@ -195,10 +156,7 @@
   "실로암": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "20"
-      ],
+      "location": ["1", "20"],
       "code": "C",
       "reference": "오 주여 당신께 감사하리"
     }
@@ -206,10 +164,7 @@
   "예수께로 가면": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "22"
-      ],
+      "location": ["1", "22"],
       "code": "C",
       "reference": null
     },
@@ -223,10 +178,7 @@
   "우리에게 향하신": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "23"
-      ],
+      "location": ["1", "23"],
       "code": "F",
       "reference": "크고 크도다 크시도다"
     },
@@ -240,10 +192,7 @@
   "형제의 모습 속에": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "24"
-      ],
+      "location": ["1", "24"],
       "code": "F",
       "reference": null
     }
@@ -251,10 +200,7 @@
   "왕이신 나의 하나님": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "25"
-      ],
+      "location": ["1", "25"],
       "code": "F",
       "reference": "영원히 주의 이름을"
     },
@@ -268,10 +214,7 @@
   "약할 때 강함 되시네": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "26"
-      ],
+      "location": ["1", "26"],
       "code": "F",
       "reference": "예수 어린양 존귀한 이름"
     }
@@ -279,10 +222,7 @@
   "나 주님의 기쁨 되길 원하네": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "27"
-      ],
+      "location": ["1", "27"],
       "code": "F",
       "reference": "내가 원하는 한가지"
     }
@@ -290,10 +230,7 @@
   "나의 부르심": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "28"
-      ],
+      "location": ["1", "28"],
       "code": "F",
       "reference": "덮으소서 주의 거룩한 품에"
     }
@@ -301,10 +238,7 @@
   "너는 시냇가에": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "30"
-      ],
+      "location": ["1", "30"],
       "code": "G",
       "reference": null
     }
@@ -312,26 +246,20 @@
   "나의 사랑하는 책": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "31"
-      ],
+      "location": ["1", "31"],
       "code": "G",
       "reference": "귀하고 귀하다"
     },
     {
       "type": "code_rule",
-      "location": "12",
+      "location": "15",
       "code": "G",
       "reference": null
     },
     {
       "type": "service",
       "location": "12",
-      "code": [
-        "G",
-        "A♭"
-      ],
+      "code": ["G", "A♭"],
       "reference": null
     },
     {
@@ -344,10 +272,7 @@
   "내 손을 주께 높이 듭니다": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "32"
-      ],
+      "location": ["1", "32"],
       "code": "G",
       "reference": "슬픔 대신 희락을"
     }
@@ -355,10 +280,7 @@
   "축복송": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "33"
-      ],
+      "location": ["1", "33"],
       "code": "G",
       "reference": null
     },
@@ -372,10 +294,7 @@
   "당신이 지쳐서": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "34"
-      ],
+      "location": ["1", "34"],
       "code": "G",
       "reference": "누군가 널 위하여"
     }
@@ -383,10 +302,7 @@
   "로마서 16:19": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "36"
-      ],
+      "location": ["1", "36"],
       "code": "G",
       "reference": "선한데는 지혜롭고"
     }
@@ -394,10 +310,7 @@
   "호산나": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "37"
-      ],
+      "location": ["1", "37"],
       "code": "G",
       "reference": "주의 이름높여"
     }
@@ -405,19 +318,13 @@
   "전능하신 나의 주 하나님은": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "38"
-      ],
+      "location": ["1", "38"],
       "code": "G",
       "reference": "주의 말씀 의지하여"
     },
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "61"
-      ],
+      "location": ["5", "61"],
       "code": "A",
       "reference": "주의 말씀 의지하여"
     },
@@ -431,10 +338,7 @@
   "주 예수 기뻐 찬양해": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "40"
-      ],
+      "location": ["1", "40"],
       "code": "G",
       "reference": "부활하신 우리주님"
     }
@@ -442,10 +346,7 @@
   "하나님께서는": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "42"
-      ],
+      "location": ["1", "42"],
       "code": "G",
       "reference": "우리는 하나되어"
     }
@@ -453,10 +354,7 @@
   "이 믿음 더욱 굳세라": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "44"
-      ],
+      "location": ["1", "44"],
       "code": "G",
       "reference": null
     },
@@ -470,10 +368,7 @@
   "내게 있는 향유 옥합": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "45"
-      ],
+      "location": ["1", "45"],
       "code": "D",
       "reference": "나를 위해 험한 산길"
     }
@@ -481,10 +376,7 @@
   "당신은 사랑받기 위해 태어난 사람": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "46"
-      ],
+      "location": ["1", "46"],
       "code": "D",
       "reference": "태초부터 시작된"
     },
@@ -498,10 +390,7 @@
   "또 하나의 열매를 바라시며": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "48"
-      ],
+      "location": ["1", "48"],
       "code": "D",
       "reference": "당신은 사랑받기 위해"
     }
@@ -509,19 +398,13 @@
   "주의 자비가 내려와": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "50"
-      ],
+      "location": ["1", "50"],
       "code": "D",
       "reference": "헤이 호 주의 자비하심과"
     },
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "52"
-      ],
+      "location": ["5", "52"],
       "code": "D",
       "reference": "헤이 호 주의 자비하심과"
     },
@@ -535,19 +418,13 @@
   "내 이름 아시죠": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "51"
-      ],
+      "location": ["1", "51"],
       "code": "D",
       "reference": null
     },
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "73"
-      ],
+      "location": ["5", "73"],
       "code": "E",
       "reference": null
     },
@@ -561,10 +438,7 @@
   "주의 인자는 끝이 없고": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "52"
-      ],
+      "location": ["1", "52"],
       "code": "D",
       "reference": "아침 마다 새롭고"
     },
@@ -578,10 +452,7 @@
   "내 마음에 사랑이": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "53"
-      ],
+      "location": ["1", "53"],
       "code": "C",
       "reference": null
     }
@@ -589,10 +460,7 @@
   "손을 높이 들고": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "54"
-      ],
+      "location": ["1", "54"],
       "code": "C",
       "reference": "할렐루야 주를 찬양"
     },
@@ -606,19 +474,13 @@
   "사랑하는 나의 아버지": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "56"
-      ],
+      "location": ["1", "56"],
       "code": "C",
       "reference": "전능하신 하나님 찬양"
     },
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "6"
-      ],
+      "location": ["5", "6"],
       "code": "C",
       "reference": "전능하신 하나님 찬양"
     },
@@ -632,10 +494,7 @@
   "야곱의 축복": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "58"
-      ],
+      "location": ["1", "58"],
       "code": "C",
       "reference": "너는 하나님의 사람"
     },
@@ -649,10 +508,7 @@
   "아름다운 마음들이": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "61"
-      ],
+      "location": ["1", "61"],
       "code": "C",
       "reference": "하나님이 가르쳐준 한가지"
     }
@@ -660,10 +516,7 @@
   "기대": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "62"
-      ],
+      "location": ["1", "62"],
       "code": "C",
       "reference": "주님 우릴 통해 계획 하신일"
     }
@@ -671,10 +524,7 @@
   "축복합니다": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "64"
-      ],
+      "location": ["1", "64"],
       "code": "F",
       "reference": "God bless you"
     }
@@ -682,10 +532,7 @@
   "내게 강같은 평화": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "66"
-      ],
+      "location": ["1", "66"],
       "code": "F",
       "reference": null
     }
@@ -693,10 +540,7 @@
   "우리 함께 기뻐해": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "67"
-      ],
+      "location": ["1", "67"],
       "code": "F",
       "reference": "할렐루야 전능 하신 주"
     }
@@ -704,10 +548,7 @@
   "하나님은 너를 지키시는 자": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "68"
-      ],
+      "location": ["1", "68"],
       "code": "F",
       "reference": "눈을 들어 산을 보아라"
     },
@@ -721,10 +562,7 @@
   "주의 이름 높이며": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "70"
-      ],
+      "location": ["1", "70"],
       "code": "G",
       "reference": "하늘 영광 버리고"
     },
@@ -738,10 +576,7 @@
   "주를 찬양": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "72"
-      ],
+      "location": ["1", "72"],
       "code": "G",
       "reference": null
     }
@@ -749,10 +584,7 @@
   "오 주여 나의 마음이": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "74"
-      ],
+      "location": ["1", "74"],
       "code": "G",
       "reference": "멜로디"
     }
@@ -760,10 +592,7 @@
   "보혈을 지나": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "76"
-      ],
+      "location": ["1", "76"],
       "code": "G",
       "reference": "존귀한 주 보혈이"
     }
@@ -771,10 +600,7 @@
   "물이 바다 덮음 같이": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "78"
-      ],
+      "location": ["1", "78"],
       "code": "G",
       "reference": null
     },
@@ -788,10 +614,7 @@
   "일어나라 찬양을 드리라": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "81"
-      ],
+      "location": ["1", "81"],
       "code": "G",
       "reference": "마음 열고 주님 앞에"
     }
@@ -799,10 +622,7 @@
   "아침 안개 눈앞 가리듯": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "82"
-      ],
+      "location": ["1", "82"],
       "code": "D",
       "reference": "십자가의 보혈로써"
     }
@@ -810,10 +630,7 @@
   "신실하신 하나님": [
     {
       "type": "ccm",
-      "location": [
-        "1",
-        "84"
-      ],
+      "location": ["1", "84"],
       "code": "A",
       "reference": null
     }
@@ -821,10 +638,7 @@
   "나의 만족과 유익을 위해": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "6"
-      ],
+      "location": ["2", "6"],
       "code": "C",
       "reference": "내 안에 가장 귀한것"
     }
@@ -832,10 +646,7 @@
   "주의 신을 내가 떠나": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "8"
-      ],
+      "location": ["2", "8"],
       "code": "C",
       "reference": "주님은 내 모든것"
     }
@@ -843,10 +654,7 @@
   "약한 나로 강하게": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "13"
-      ],
+      "location": ["2", "13"],
       "code": "C",
       "reference": "호산나 호산나 죽임 당한 어린 양"
     },
@@ -860,10 +668,7 @@
   "주의 능력 보이소서": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "14"
-      ],
+      "location": ["2", "14"],
       "code": "F",
       "reference": null
     }
@@ -871,10 +676,7 @@
   "주의 이름 송축하리": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "16"
-      ],
+      "location": ["2", "16"],
       "code": "F",
       "reference": "주님의 이름은"
     }
@@ -882,10 +684,7 @@
   "나의 모습 나의 소유": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "18"
-      ],
+      "location": ["2", "18"],
       "code": "F",
       "reference": "나의 생명을 드리니"
     },
@@ -899,10 +698,7 @@
   "거룩하신 하나님": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "20"
-      ],
+      "location": ["2", "20"],
       "code": "F",
       "reference": "내가 약할 때 강함주고"
     },
@@ -922,10 +718,7 @@
   "주님 한분 만으로": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "21"
-      ],
+      "location": ["2", "21"],
       "code": "G",
       "reference": "주님의 크신 사랑 찬양해"
     },
@@ -939,10 +732,7 @@
   "이 산지를 내게 주소서": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "22"
-      ],
+      "location": ["2", "22"],
       "code": "G",
       "reference": null
     },
@@ -956,10 +746,7 @@
   "주님은 신실하고": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "24"
-      ],
+      "location": ["2", "24"],
       "code": "G",
       "reference": "주 사랑이 내 생명보다 귀하고"
     },
@@ -973,10 +760,7 @@
   "영광 주님께": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "26"
-      ],
+      "location": ["2", "26"],
       "code": "G",
       "reference": "새 노래로 주찬양"
     }
@@ -984,10 +768,7 @@
   "주를 높이기 원합니다": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "28"
-      ],
+      "location": ["2", "28"],
       "code": "G",
       "reference": "나의 맘과 영혼"
     }
@@ -995,10 +776,7 @@
   "주 말씀 향하여": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "30"
-      ],
+      "location": ["2", "30"],
       "code": "G",
       "reference": null
     }
@@ -1006,10 +784,7 @@
   "주는 나의 힘이요": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "32"
-      ],
+      "location": ["2", "32"],
       "code": "G",
       "reference": null
     }
@@ -1017,10 +792,7 @@
   "주의 인자하심이 생명보다 나으므로": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "34"
-      ],
+      "location": ["2", "34"],
       "code": "G",
       "reference": null
     }
@@ -1028,10 +800,7 @@
   "주 예수의 이름 높이세": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "36"
-      ],
+      "location": ["2", "36"],
       "code": "G",
       "reference": "한걸음씩 전진하며"
     },
@@ -1045,10 +814,7 @@
   "내 모든 삶의 행동 주안에": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "38"
-      ],
+      "location": ["2", "38"],
       "code": "G",
       "reference": "라라라라라라라 라라라라라라라"
     }
@@ -1056,10 +822,7 @@
   "아름다운 사랑을 나눠요": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "40"
-      ],
+      "location": ["2", "40"],
       "code": "G",
       "reference": null
     }
@@ -1067,10 +830,7 @@
   "임하소서": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "42"
-      ],
+      "location": ["2", "42"],
       "code": "D",
       "reference": "알렐루야"
     }
@@ -1078,10 +838,7 @@
   "평안을 너에게 주노라": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "44"
-      ],
+      "location": ["2", "44"],
       "code": "D",
       "reference": null
     }
@@ -1089,10 +846,7 @@
   "신실하게 진실하게 거룩하게": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "47"
-      ],
+      "location": ["2", "47"],
       "code": "D",
       "reference": "하나님 나의 마음"
     }
@@ -1100,10 +854,7 @@
   "나 무엇과도 주님을": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "48"
-      ],
+      "location": ["2", "48"],
       "code": "D",
       "reference": "주님 사랑해요"
     },
@@ -1117,10 +868,7 @@
   "찬양의 제사 드리며": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "50"
-      ],
+      "location": ["2", "50"],
       "code": "D",
       "reference": null
     },
@@ -1134,10 +882,7 @@
   "말씀하시면": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "52"
-      ],
+      "location": ["2", "52"],
       "code": "D",
       "reference": "뜻하신 그곳에 나 있기 원합니다"
     }
@@ -1145,10 +890,7 @@
   "선하신 목자": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "54"
-      ],
+      "location": ["2", "54"],
       "code": "D",
       "reference": "나를 푸른 초장과"
     },
@@ -1162,10 +904,7 @@
   "날 구원하신 주 감사": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "56"
-      ],
+      "location": ["2", "56"],
       "code": "A",
       "reference": null
     }
@@ -1173,19 +912,13 @@
   "주님 곁으로 날 이끄소서": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "57"
-      ],
+      "location": ["2", "57"],
       "code": "A",
       "reference": "주님 만이 내 모든것"
     },
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "58"
-      ],
+      "location": ["4", "58"],
       "code": "A",
       "reference": "주님 만이 내 모든것"
     }
@@ -1193,10 +926,7 @@
   "십자가의 길 순교자의 삶": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "58"
-      ],
+      "location": ["2", "58"],
       "code": "A",
       "reference": "하나님의 사랑이"
     },
@@ -1210,10 +940,7 @@
   "주만 바라볼지라": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "60"
-      ],
+      "location": ["2", "60"],
       "code": "A",
       "reference": "하나님 사랑의 눈으로"
     }
@@ -1221,10 +948,7 @@
   "난 여호와로 즐거워하리": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "62"
-      ],
+      "location": ["2", "62"],
       "code": "A",
       "reference": null
     }
@@ -1232,10 +956,7 @@
   "모든 능력과 모든 권세": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "64"
-      ],
+      "location": ["2", "64"],
       "code": "A",
       "reference": "십자가 고통당하사"
     }
@@ -1243,10 +964,7 @@
   "주께 가오니": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "66"
-      ],
+      "location": ["2", "66"],
       "code": "A",
       "reference": "주 사랑 나를 붙드시고"
     },
@@ -1260,10 +978,7 @@
   "비전": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "68"
-      ],
+      "location": ["2", "68"],
       "code": "A",
       "reference": "구원 하심이 보좌에 앉으신"
     },
@@ -1277,10 +992,7 @@
   "나의 안에 거하라": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "70"
-      ],
+      "location": ["2", "70"],
       "code": "A",
       "reference": "내가 너를 지명하여 불렀나니"
     },
@@ -1294,10 +1006,7 @@
   "오직 주만이": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "72"
-      ],
+      "location": ["2", "72"],
       "code": "A",
       "reference": null
     },
@@ -1311,10 +1020,7 @@
   "낮은 자의 하나님": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "74"
-      ],
+      "location": ["2", "74"],
       "code": "A",
       "reference": "찬양함에 기쁨을"
     },
@@ -1328,10 +1034,7 @@
   "지금은 엘리아 때처럼": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "76"
-      ],
+      "location": ["2", "76"],
       "code": "A",
       "reference": "보라 주님 구름타시고"
     }
@@ -1339,10 +1042,7 @@
   "깨뜨릴 옥합 내게 없으며": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "78"
-      ],
+      "location": ["2", "78"],
       "code": "E",
       "reference": null
     },
@@ -1356,10 +1056,7 @@
   "주 오셔서 구하시리": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "80"
-      ],
+      "location": ["2", "80"],
       "code": "E",
       "reference": null
     }
@@ -1367,10 +1064,7 @@
   "두 손 들고 찬양합니다": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "82"
-      ],
+      "location": ["2", "82"],
       "code": "E",
       "reference": "나 주님만을 섬기리"
     }
@@ -1378,10 +1072,7 @@
   "날마다 숨쉬는 순간마다": [
     {
       "type": "ccm",
-      "location": [
-        "2",
-        "84"
-      ],
+      "location": ["2", "84"],
       "code": "E",
       "reference": "주님의 그 자비로운 손길"
     }
@@ -1389,10 +1080,7 @@
   "내 안에 사는 이": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "6"
-      ],
+      "location": ["3", "6"],
       "code": "C",
       "reference": "나의 왕 내 노래"
     }
@@ -1400,10 +1088,7 @@
   "성령이 오셨네": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "8"
-      ],
+      "location": ["3", "8"],
       "code": "C",
       "reference": null
     }
@@ -1411,10 +1096,7 @@
   "시편 19편": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "10"
-      ],
+      "location": ["3", "10"],
       "code": "C",
       "reference": "내 반석 나의 구원"
     }
@@ -1422,10 +1104,7 @@
   "주님 다시 오실 때까지": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "13"
-      ],
+      "location": ["3", "13"],
       "code": "C",
       "reference": "내 사모하는 주님"
     },
@@ -1439,10 +1118,7 @@
   "날 세우시네": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "16"
-      ],
+      "location": ["3", "16"],
       "code": "C",
       "reference": "you raise me up"
     }
@@ -1450,10 +1126,7 @@
   "온 맘 다해": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "18"
-      ],
+      "location": ["3", "18"],
       "code": "F",
       "reference": null
     }
@@ -1461,10 +1134,7 @@
   "아버지 사랑합니다": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "20"
-      ],
+      "location": ["3", "20"],
       "code": "F",
       "reference": null
     }
@@ -1472,10 +1142,7 @@
   "그의 생각": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "21"
-      ],
+      "location": ["3", "21"],
       "code": "F",
       "reference": null
     }
@@ -1483,10 +1150,7 @@
   "마음이 상한 자를": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "24"
-      ],
+      "location": ["3", "24"],
       "code": "F",
       "reference": "의에 주리고 목이 마르니"
     },
@@ -1500,10 +1164,7 @@
   "예배합니다": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "26"
-      ],
+      "location": ["3", "26"],
       "code": "F",
       "reference": null
     }
@@ -1511,10 +1172,7 @@
   "하나님께서 당신을 통해": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "28"
-      ],
+      "location": ["3", "28"],
       "code": "G",
       "reference": null
     },
@@ -1528,10 +1186,7 @@
   "지존하신 주님 이름 앞에": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "29"
-      ],
+      "location": ["3", "29"],
       "code": "G",
       "reference": "예수는 그리스도"
     }
@@ -1539,10 +1194,7 @@
   "내가 주인 삼은": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "30"
-      ],
+      "location": ["3", "30"],
       "code": "G",
       "reference": "주사랑 거친 풍랑에도"
     }
@@ -1550,10 +1202,7 @@
   "나의 가는 길": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "31"
-      ],
+      "location": ["3", "31"],
       "code": "G",
       "reference": null
     }
@@ -1561,10 +1210,7 @@
   "주님과 같이": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "34"
-      ],
+      "location": ["3", "34"],
       "code": "G",
       "reference": null
     },
@@ -1578,10 +1224,7 @@
   "모든 상황속에서": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "36"
-      ],
+      "location": ["3", "36"],
       "code": "G",
       "reference": "내 영혼이 확정되고"
     }
@@ -1589,10 +1232,7 @@
   "부흥 있으리라": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "40"
-      ],
+      "location": ["3", "40"],
       "code": "G",
       "reference": null
     },
@@ -1612,10 +1252,7 @@
   "성령의 불타는 교회": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "42"
-      ],
+      "location": ["3", "42"],
       "code": "G",
       "reference": null
     }
@@ -1623,10 +1260,7 @@
   "모든 이름 위에 뛰어난 이름": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "46"
-      ],
+      "location": ["3", "46"],
       "code": "D",
       "reference": "예수는 주"
     }
@@ -1634,10 +1268,7 @@
   "오 나의 자비로운 주여": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "48"
-      ],
+      "location": ["3", "48"],
       "code": "D",
       "reference": "예수 오 예수"
     },
@@ -1651,10 +1282,7 @@
   "사랑의 주님이": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "50"
-      ],
+      "location": ["3", "50"],
       "code": "D",
       "reference": null
     },
@@ -1668,10 +1296,7 @@
   "나를 받으시옵소서": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "52"
-      ],
+      "location": ["3", "52"],
       "code": "D",
       "reference": "알렐루야 알렐루야"
     }
@@ -1679,10 +1304,7 @@
   "내 구주 예수님": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "54"
-      ],
+      "location": ["3", "54"],
       "code": "A",
       "reference": "온 땅이여 주님께 외쳐라"
     },
@@ -1696,10 +1318,7 @@
   "주께 가까이": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "56"
-      ],
+      "location": ["3", "56"],
       "code": "A",
       "reference": "목마른 나의 영혼"
     }
@@ -1707,10 +1326,7 @@
   "주 여호와는 광대하시도다": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "58"
-      ],
+      "location": ["3", "58"],
       "code": "A",
       "reference": "다 주의 크신 이름 높이며"
     }
@@ -1718,10 +1334,7 @@
   "주가 보이신 생명의 길": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "60"
-      ],
+      "location": ["3", "60"],
       "code": "A",
       "reference": "나의 길 오직 그가 아시나니"
     }
@@ -1729,10 +1342,7 @@
   "예수 우리 왕이여": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "62"
-      ],
+      "location": ["3", "62"],
       "code": "A",
       "reference": "주님을 찬양 하오니"
     },
@@ -1752,10 +1362,7 @@
   "주를 향한 나의 사랑을": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "63"
-      ],
+      "location": ["3", "63"],
       "code": "E",
       "reference": "주님의 말씀 선포 될때"
     },
@@ -1769,10 +1376,7 @@
   "아바 아버지": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "64"
-      ],
+      "location": ["3", "64"],
       "code": "E",
       "reference": "주는 내 맘을 고치시고"
     }
@@ -1780,10 +1384,7 @@
   "나의 마음을": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "66"
-      ],
+      "location": ["3", "66"],
       "code": "E",
       "reference": null
     }
@@ -1791,10 +1392,7 @@
   "성령의 불로": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "68"
-      ],
+      "location": ["3", "68"],
       "code": "E",
       "reference": null
     }
@@ -1802,10 +1400,7 @@
   "내 마음을 가득 채운": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "71"
-      ],
+      "location": ["3", "71"],
       "code": "E",
       "reference": "주 사랑해요"
     }
@@ -1813,10 +1408,7 @@
   "감사함으로": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "74"
-      ],
+      "location": ["3", "74"],
       "code": "E",
       "reference": null
     }
@@ -1824,10 +1416,7 @@
   "내 갈급함": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "76"
-      ],
+      "location": ["3", "76"],
       "code": "E",
       "reference": "내게로 나오라"
     }
@@ -1835,10 +1424,7 @@
   "주는 거룩": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "78"
-      ],
+      "location": ["3", "78"],
       "code": "E",
       "reference": "영원히 찬양합니다"
     }
@@ -1846,10 +1432,7 @@
   "주님께로 나아가며": [
     {
       "type": "ccm",
-      "location": [
-        "3",
-        "80"
-      ],
+      "location": ["3", "80"],
       "code": "B♭",
       "reference": null
     }
@@ -1857,10 +1440,7 @@
   "하나님 아버지의 마음": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "6"
-      ],
+      "location": ["4", "6"],
       "code": "C",
       "reference": "나의 마음이 아버지 마음알아"
     }
@@ -1868,10 +1448,7 @@
   "예수 나의 첫사랑 되시네": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "8"
-      ],
+      "location": ["4", "8"],
       "code": "C",
       "reference": "오직 주만 바라 보며"
     }
@@ -1879,10 +1456,7 @@
   "돌아서지 않으리": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "11"
-      ],
+      "location": ["4", "11"],
       "code": "C",
       "reference": "어떠한 시련이 와도"
     }
@@ -1890,10 +1464,7 @@
   "사명": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "14"
-      ],
+      "location": ["4", "14"],
       "code": "Am",
       "reference": "아버지 나를 보내주오"
     },
@@ -1907,10 +1478,7 @@
   "온 맘 다해 주 사랑하라": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "16"
-      ],
+      "location": ["4", "16"],
       "code": "F",
       "reference": "사랑해요 존귀하신 주"
     }
@@ -1918,10 +1486,7 @@
   "부르신 곳에서": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "18"
-      ],
+      "location": ["4", "18"],
       "code": "F",
       "reference": null
     }
@@ -1929,10 +1494,7 @@
   "소원": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "22"
-      ],
+      "location": ["4", "22"],
       "code": "F",
       "reference": "저 높이 솟은 산이 되기 보다"
     }
@@ -1940,10 +1502,7 @@
   "오직 믿음으로": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "26"
-      ],
+      "location": ["4", "26"],
       "code": "F",
       "reference": null
     }
@@ -1951,10 +1510,7 @@
   "하나님의 은혜": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "28"
-      ],
+      "location": ["4", "28"],
       "code": "F",
       "reference": "한량없는 은혜"
     }
@@ -1962,10 +1518,7 @@
   "모든 열방 주 볼 때까지": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "31"
-      ],
+      "location": ["4", "31"],
       "code": "G",
       "reference": "주의 영광 이 곳에 가득해"
     },
@@ -1979,10 +1532,7 @@
   "보라 너희는 두려워 말고": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "34"
-      ],
+      "location": ["4", "34"],
       "code": "G",
       "reference": "보라 하나님 구원을"
     },
@@ -1996,10 +1546,7 @@
   "주님 마음 내게 주소서": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "36"
-      ],
+      "location": ["4", "36"],
       "code": "G",
       "reference": null
     }
@@ -2007,10 +1554,7 @@
   "크리스마스에는 축복을": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "40"
-      ],
+      "location": ["4", "40"],
       "code": "G",
       "reference": null
     }
@@ -2018,10 +1562,7 @@
   "사랑 없으면": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "42"
-      ],
+      "location": ["4", "42"],
       "code": "G",
       "reference": "사랑은 온유하며"
     }
@@ -2029,10 +1570,7 @@
   "오직 주의 사랑에 매여": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "45"
-      ],
+      "location": ["4", "45"],
       "code": "D",
       "reference": "주께서 주신 모든 은혜"
     },
@@ -2046,10 +1584,7 @@
   "이 세상의 부요함보다": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "47"
-      ],
+      "location": ["4", "47"],
       "code": "A",
       "reference": "붙드소서"
     }
@@ -2057,10 +1592,7 @@
   "오직 예수": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "50"
-      ],
+      "location": ["4", "50"],
       "code": "",
       "reference": null
     }
@@ -2068,10 +1600,7 @@
   "만세 반석": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "55"
-      ],
+      "location": ["4", "55"],
       "code": "A",
       "reference": null
     }
@@ -2079,10 +1608,7 @@
   "주님은 산 같아서": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "60"
-      ],
+      "location": ["4", "60"],
       "code": "A",
       "reference": "주님께서 날 이끄시며"
     }
@@ -2090,10 +1616,7 @@
   "주님은 아시네": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "63"
-      ],
+      "location": ["4", "63"],
       "code": "A",
       "reference": "위대하신 왕"
     }
@@ -2101,10 +1624,7 @@
   "믿음 따라": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "66"
-      ],
+      "location": ["4", "66"],
       "code": "A",
       "reference": "나의 가는 길 믿음 따라"
     }
@@ -2112,19 +1632,13 @@
   "나 가진 재물 없으나": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "70"
-      ],
+      "location": ["4", "70"],
       "code": "A",
       "reference": "공평하신 하나님이"
     },
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "81"
-      ],
+      "location": ["4", "81"],
       "code": "A♭",
       "reference": "공평하신 하나님이"
     }
@@ -2132,10 +1646,7 @@
   "나는 주의 친구": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "73"
-      ],
+      "location": ["4", "73"],
       "code": "E",
       "reference": "놀라워라"
     }
@@ -2143,10 +1654,7 @@
   "빛 되신 주": [
     {
       "type": "ccm",
-      "location": [
-        "4",
-        "78"
-      ],
+      "location": ["4", "78"],
       "code": "E",
       "reference": "나 주를 경배 하리"
     }
@@ -2154,19 +1662,13 @@
   "오 신실하신 주": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "8"
-      ],
+      "location": ["5", "8"],
       "code": "C",
       "reference": null
     },
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "10"
-      ],
+      "location": ["5", "10"],
       "code": "C",
       "reference": null
     },
@@ -2186,10 +1688,7 @@
   "온전케 되리": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "13"
-      ],
+      "location": ["5", "13"],
       "code": "C",
       "reference": "이제 눈 들어 주 보네"
     }
@@ -2197,10 +1696,7 @@
   "주 은혜임을": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "16"
-      ],
+      "location": ["5", "16"],
       "code": "F",
       "reference": "세상 소망 다 사라져 가도"
     }
@@ -2208,10 +1704,7 @@
   "십자가 그 사랑": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "19"
-      ],
+      "location": ["5", "19"],
       "code": "G",
       "reference": "주 나를 보호 하시고"
     }
@@ -2219,10 +1712,7 @@
   "찬양하라 내 영혼아": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "22"
-      ],
+      "location": ["5", "22"],
       "code": "G",
       "reference": "감사하라 내 영혼아"
     },
@@ -2236,10 +1726,7 @@
   "예수 이름 높이세": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "24"
-      ],
+      "location": ["5", "24"],
       "code": "G",
       "reference": null
     }
@@ -2247,19 +1734,13 @@
   "그 사랑": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "27"
-      ],
+      "location": ["5", "27"],
       "code": "G",
       "reference": null
     },
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "30"
-      ],
+      "location": ["5", "30"],
       "code": "G",
       "reference": null
     }
@@ -2267,10 +1748,7 @@
   "기뻐하며 왕께 노래 부라리": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "33"
-      ],
+      "location": ["5", "33"],
       "code": "G",
       "reference": "나의 창조자 나의 구원자"
     }
@@ -2278,10 +1756,7 @@
   "우리 주의 성령이": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "36"
-      ],
+      "location": ["5", "36"],
       "code": "Em",
       "reference": "찬양 합니다 찬양합니다"
     },
@@ -2295,10 +1770,7 @@
   "마음의 에배": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "38"
-      ],
+      "location": ["5", "38"],
       "code": "D",
       "reference": "주님께 드릴 맘의 예배"
     }
@@ -2306,10 +1778,7 @@
   "내 평생 사는 동안": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "40"
-      ],
+      "location": ["5", "40"],
       "code": "D",
       "reference": "내 영혼아 주님을 송축하라"
     },
@@ -2323,19 +1792,13 @@
   "주를 위한 이곳에": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "42"
-      ],
+      "location": ["5", "42"],
       "code": "D",
       "reference": "주 은혜로 이곳에 서있네"
     },
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "45"
-      ],
+      "location": ["5", "45"],
       "code": "D",
       "reference": "주 은혜로 이곳에 서있네"
     }
@@ -2343,10 +1806,7 @@
   "오라 우리가": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "49"
-      ],
+      "location": ["5", "49"],
       "code": "D",
       "reference": "주님의 도를 배우고"
     }
@@ -2354,10 +1814,7 @@
   "예수 나의 치료자": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "55"
-      ],
+      "location": ["5", "55"],
       "code": "A",
       "reference": "나 노래하리라"
     }
@@ -2365,10 +1822,7 @@
   "유월절 어린 양의 피로": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "58"
-      ],
+      "location": ["5", "58"],
       "code": "A",
       "reference": "난 주 보혈 아래 있네"
     },
@@ -2382,10 +1836,7 @@
   "주 하나님 독생자 예수": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "64"
-      ],
+      "location": ["5", "64"],
       "code": "A",
       "reference": "살아 계신 주"
     }
@@ -2393,10 +1844,7 @@
   "은혜로다": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "67"
-      ],
+      "location": ["5", "67"],
       "code": "A",
       "reference": null
     }
@@ -2404,10 +1852,7 @@
   "마라나타": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "70"
-      ],
+      "location": ["5", "70"],
       "code": "A",
       "reference": null
     }
@@ -2415,10 +1860,7 @@
   "평화 하나님의 평강이": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "76"
-      ],
+      "location": ["5", "76"],
       "code": "E",
       "reference": null
     }
@@ -2426,10 +1868,7 @@
   "매일 주와 함께": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "78"
-      ],
+      "location": ["5", "78"],
       "code": "E",
       "reference": "주를 더욱 아는 것 놀라워라"
     }
@@ -2437,10 +1876,7 @@
   "주는 평화": [
     {
       "type": "ccm",
-      "location": [
-        "5",
-        "81"
-      ],
+      "location": ["5", "81"],
       "code": "E",
       "reference": "염려다 맡기라"
     },
@@ -3580,16 +3016,8 @@
   "달고 오묘한 그 말씀": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "6"
-      ],
-      "code": [
-        "F",
-        "F",
-        "F",
-        "F"
-      ],
+      "location": ["1", "6"],
+      "code": ["F", "F", "F", "F"],
       "reference": null
     },
     {
@@ -3602,32 +3030,22 @@
   "내 주를 가까이": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "12"
-      ],
-      "code": [
-        "G",
-        "G",
-        "G",
-        "G"
-      ],
+      "location": ["1", "12"],
+      "code": ["G", "G", "G", "G"],
       "reference": null
     }
   ],
   "귀하신 주여 날 붙드사": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "18"
-      ],
-      "code": [
-        "C",
-        "C",
-        "C",
-        "D♭"
-      ],
+      "location": ["1", "18"],
+      "code": ["C", "C", "C", "D♭"],
+      "reference": null
+    },
+    {
+      "type": "code_rule",
+      "location": "11",
+      "code": "C",
       "reference": null
     },
     {
@@ -3640,15 +3058,8 @@
   "주의 음성을 내가 들으니": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "24"
-      ],
-      "code": [
-        "G",
-        "G",
-        "G"
-      ],
+      "location": ["1", "24"],
+      "code": ["G", "G", "G"],
       "reference": null
     },
     {
@@ -3661,16 +3072,8 @@
   "마귀들과 싸울지라": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "30"
-      ],
-      "code": [
-        "C",
-        "C",
-        "C",
-        "C"
-      ],
+      "location": ["1", "30"],
+      "code": ["C", "C", "C", "C"],
       "reference": null
     },
     {
@@ -3683,16 +3086,8 @@
   "저 장미꽃 위에 이슬": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "36"
-      ],
-      "code": [
-        "G",
-        "G",
-        "G",
-        "A♭"
-      ],
+      "location": ["1", "36"],
+      "code": ["G", "G", "G", "A♭"],
       "reference": null
     },
     {
@@ -3705,31 +3100,16 @@
   "죄 짐 맡은 우리 구주": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "42"
-      ],
-      "code": [
-        "F",
-        "F",
-        "F",
-        "F"
-      ],
+      "location": ["1", "42"],
+      "code": ["F", "F", "F", "F"],
       "reference": null
     }
   ],
   "내 주 되신 주를 참 사랑하고": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "48"
-      ],
-      "code": [
-        "F",
-        "F",
-        "F"
-      ],
+      "location": ["1", "48"],
+      "code": ["F", "F", "F"],
       "reference": null
     },
     {
@@ -3742,31 +3122,14 @@
   "복의 근원 강림하사": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "54"
-      ],
-      "code": [
-        "C",
-        "C",
-        "C",
-        "C"
-      ],
-      "reference": null
-    },
-    {
-      "type": "code_rule",
-      "location": "28",
-      "code": "D",
+      "location": ["1", "54"],
+      "code": ["C", "C", "C", "C"],
       "reference": null
     },
     {
       "type": "service",
       "location": "28",
-      "code": [
-        "D",
-        "D"
-      ],
+      "code": ["D", "D"],
       "reference": null
     },
     {
@@ -3779,77 +3142,42 @@
   "하늘 가는 밝은 길이": [
     {
       "type": "worshiper",
-      "location": [
-        "1",
-        "60"
-      ],
-      "code": [
-        "C",
-        "C",
-        "C"
-      ],
+      "location": ["1", "60"],
+      "code": ["C", "C", "C"],
       "reference": null
     },
     {
       "type": "code_rule",
-      "location": "86",
-      "code": "C",
+      "location": "91",
+      "code": "B",
       "reference": null
     },
     {
       "type": "service",
       "location": "86",
-      "code": [
-        "C",
-        "C"
-      ],
+      "code": ["C", "C"],
       "reference": null
     }
   ],
   "만왕의 왕 내 주께서": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "6"
-      ],
-      "code": [
-        "E",
-        "E",
-        "E",
-        "E"
-      ],
+      "location": ["2", "6"],
+      "code": ["E", "E", "E", "E"],
       "reference": null
     }
   ],
   "인애하신 구세주여": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "12"
-      ],
-      "code": [
-        "A♭",
-        "A♭",
-        "A♭",
-        "A♭"
-      ],
-      "reference": null
-    },
-    {
-      "type": "code_rule",
-      "location": "64",
-      "code": "G",
+      "location": ["2", "12"],
+      "code": ["A♭", "A♭", "A♭", "A♭"],
       "reference": null
     },
     {
       "type": "service",
       "location": "64",
-      "code": [
-        "G",
-        "A♭"
-      ],
+      "code": ["G", "A♭"],
       "reference": null
     },
     {
@@ -3862,16 +3190,8 @@
   "주 예수 내 맘에 들어와": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "18"
-      ],
-      "code": [
-        "G",
-        "G",
-        "G",
-        "A♭"
-      ],
+      "location": ["2", "18"],
+      "code": ["G", "G", "G", "A♭"],
       "reference": null
     },
     {
@@ -3884,15 +3204,14 @@
   "거친 세상에서 실패하거든": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "24"
-      ],
-      "code": [
-        "F",
-        "F",
-        "F"
-      ],
+      "location": ["2", "24"],
+      "code": ["F", "F", "F"],
+      "reference": null
+    },
+    {
+      "type": "code_rule",
+      "location": "47",
+      "code": "F",
       "reference": null
     },
     {
@@ -3905,32 +3224,16 @@
   "에수를 나의 구주삼고": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "30"
-      ],
-      "code": [
-        "D",
-        "D",
-        "D",
-        "D"
-      ],
+      "location": ["2", "30"],
+      "code": ["D", "D", "D", "D"],
       "reference": null
     }
   ],
   "이 세상 험하고": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "36"
-      ],
-      "code": [
-        "D",
-        "D",
-        "D",
-        "D"
-      ],
+      "location": ["2", "36"],
+      "code": ["D", "D", "D", "D"],
       "reference": null
     },
     {
@@ -3943,31 +3246,16 @@
   "구주 예수 의지함이": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "42"
-      ],
-      "code": [
-        "G",
-        "G",
-        "G",
-        "G"
-      ],
+      "location": ["2", "42"],
+      "code": ["G", "G", "G", "G"],
       "reference": null
     }
   ],
   "우리가 지금은 나그네 되어도": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "48"
-      ],
-      "code": [
-        "E♭",
-        "E♭",
-        "E♭"
-      ],
+      "location": ["2", "48"],
+      "code": ["E♭", "E♭", "E♭"],
       "reference": null
     },
     {
@@ -3980,16 +3268,8 @@
   "주님 주실 화평": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "54"
-      ],
-      "code": [
-        "E♭",
-        "E♭",
-        "E♭",
-        "E♭"
-      ],
+      "location": ["2", "54"],
+      "code": ["E♭", "E♭", "E♭", "E♭"],
       "reference": null
     },
     {
@@ -4002,16 +3282,8 @@
   "나 주의 도움 받고자": [
     {
       "type": "worshiper",
-      "location": [
-        "2",
-        "60"
-      ],
-      "code": [
-        "E♭",
-        "E♭",
-        "E♭",
-        "E♭"
-      ],
+      "location": ["2", "60"],
+      "code": ["E♭", "E♭", "E♭", "E♭"],
       "reference": null
     },
     {
@@ -4021,20 +3293,477 @@
       "reference": null
     }
   ],
-  "구주와 함께 나 죽었으니": [
+  "가나안의 혼인 진치": [
     {
       "type": "code_rule",
+      "location": "35",
+      "code": "C",
+      "reference": null
+    }
+  ],
+  "값비싼 향유를 주께 드린": [
+    {
+      "type": "code_rule",
+      "location": "97",
+      "code": "G",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "211",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "고요하고 거룩한 밤": [
+    {
+      "type": "code_rule",
+      "location": "69",
+      "code": "G",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "110",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "구세주를 아는 이들": [
+    {
+      "type": "code_rule",
+      "location": "67",
+      "code": "B",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "26",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "나 가나안 땅 귀한 성에": [
+    {
+      "type": "code_rule",
+      "location": "87",
+      "code": "G",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "246",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "나의 죄를 씼기는": [
+    {
+      "type": "code_rule",
+      "location": "27",
+      "code": "G",
+      "reference": null
+    }
+  ],
+  "내 구주 예수를 더욱 사랑": [
+    {
+      "type": "code_rule",
+      "location": "45",
+      "code": "G",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "314",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "내 주는 강한 성이요": [
+    {
+      "type": "code_rule",
+      "location": "101",
+      "code": "C",
+      "reference": null
+    }
+  ],
+  "내 진정 사모하는": [
+    {
+      "type": "code_rule",
+      "location": "51",
+      "code": "E",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "88",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "만복의 근원 하나님": [
+    {
+      "type": "code_rule",
+      "location": "107",
+      "code": "A",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "1",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "만유의 주 앞에": [
+    {
+      "type": "code_rule",
+      "location": "37",
+      "code": "D",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "22",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "만유의 주재": [
+    {
+      "type": "code_rule",
+      "location": "21",
+      "code": "D",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "32",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "목소리 높여서": [
+    {
+      "type": "code_rule",
+      "location": "105",
+      "code": "D",
+      "reference": null
+    },
+    {
+      "type": "hymn",
       "location": "6",
-      "code": "F",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "샘물과 같은 보혈은": [
+    {
+      "type": "code_rule",
+      "location": "71",
+      "code": "A",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "258",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "성부 성자와 성령_3": [
+    {
+      "type": "code_rule",
+      "location": "109",
+      "code": "A",
+      "reference": null
+    }
+  ],
+  "성부 성자와 성령_4": [
+    {
+      "type": "code_rule",
+      "location": "111",
+      "code": "E",
+      "reference": null
+    }
+  ],
+  "성자의 귀한 몸": [
+    {
+      "type": "code_rule",
+      "location": "89",
+      "code": "G",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "216",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "십자가 그늘 아래": [
+    {
+      "type": "code_rule",
+      "location": "39",
+      "code": "C",
       "reference": null
     },
     {
       "type": "service",
+      "location": "36",
+      "code": ["D", "D♭"],
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "415",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "십자가를 내가 지고": [
+    {
+      "type": "code_rule",
+      "location": "55",
+      "code": "G",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "341",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "아 하나님의 은혜로": [
+    {
+      "type": "code_rule",
+      "location": "43",
+      "code": "C",
+      "reference": null
+    },
+    {
+      "type": "service",
+      "location": "44",
+      "code": ["G", "E♭"],
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "310",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "영광 나라 천사들아": [
+    {
+      "type": "code_rule",
+      "location": "75",
+      "code": "A",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "118",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "영광스런 주를 보라": [
+    {
+      "type": "code_rule",
+      "location": "25",
+      "code": "F",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "33",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "오 베들레헴 작은 골": [
+    {
+      "type": "code_rule",
+      "location": "59",
+      "code": "G",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "120",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "왕 되신 우리 주께": [
+    {
+      "type": "code_rule",
+      "location": "49",
+      "code": "B",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "140",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "우리가 기다리던": [
+    {
+      "type": "code_rule",
+      "location": "79",
+      "code": "G",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "61",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "위대하신 주를": [
+    {
+      "type": "code_rule",
+      "location": "57",
+      "code": "F",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "334",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "저 하늘 거룩하신 주여": [
+    {
+      "type": "code_rule",
+      "location": "17",
+      "code": "D",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "194",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "주 달려 죽은 십자가": [
+    {
+      "type": "code_rule",
+      "location": "95",
+      "code": "F",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "149",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "주여 복을 구하오니": [
+    {
+      "type": "code_rule",
+      "location": "33",
+      "code": "F",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "54",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "주 예수 해변서": [
+    {
+      "type": "code_rule",
+      "location": "93",
+      "code": "D",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "198",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "주 하나님의 사랑은": [
+    {
+      "type": "code_rule",
+      "location": "73",
+      "code": "A",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "219",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "즐겁도다 이 날": [
+    {
+      "type": "code_rule",
+      "location": "83",
+      "code": "G",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "167",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "찬송으로 보답할 수 없는": [
+    {
+      "type": "code_rule",
+      "location": "31",
+      "code": "D",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "40",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "천부여 의지 없어서": [
+    {
+      "type": "code_rule",
+      "location": "65",
+      "code": "F",
+      "reference": null
+    },
+    {
+      "type": "hymn",
+      "location": "280",
+      "code": null,
+      "reference": null
+    }
+  ],
+  "호산나 호산나 ": [
+    {
+      "type": "code_rule",
+      "location": "63",
+      "code": "B",
+      "reference": null
+    }
+  ],
+  "구주와 함께 나 죽었으니": [
+    {
+      "type": "service",
       "location": "6",
-      "code": [
-        "F",
-        "F"
-      ],
+      "code": ["F", "F"],
       "reference": null
     },
     {
@@ -4046,35 +3775,17 @@
   ],
   "내 영혼이 그윽히 깊은 데서": [
     {
-      "type": "code_rule",
-      "location": "16",
-      "code": "G",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "16",
-      "code": [
-        "G",
-        "A♭"
-      ],
+      "code": ["G", "A♭"],
       "reference": null
     }
   ],
   "내게 있는 모든 것을": [
     {
-      "type": "code_rule",
-      "location": "20",
-      "code": "D",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "20",
-      "code": [
-        "D",
-        "D"
-      ],
+      "code": ["D", "D"],
       "reference": null
     },
     {
@@ -4086,18 +3797,9 @@
   ],
   "너 예수께 조용히 나가": [
     {
-      "type": "code_rule",
-      "location": "24",
-      "code": "C",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "24",
-      "code": [
-        "C",
-        "E♭"
-      ],
+      "code": ["C", "E♭"],
       "reference": null
     },
     {
@@ -4109,18 +3811,9 @@
   ],
   "선한 목자 되신 우리 주": [
     {
-      "type": "code_rule",
-      "location": "32",
-      "code": "F",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "32",
-      "code": [
-        "F",
-        "E♭"
-      ],
+      "code": ["F", "E♭"],
       "reference": null
     },
     {
@@ -4130,43 +3823,11 @@
       "reference": null
     }
   ],
-  "십자가 그늘 아래": [
-    {
-      "type": "code_rule",
-      "location": "36",
-      "code": "D",
-      "reference": null
-    },
-    {
-      "type": "service",
-      "location": "36",
-      "code": [
-        "D",
-        "D♭"
-      ],
-      "reference": null
-    },
-    {
-      "type": "hymn",
-      "location": "415",
-      "code": null,
-      "reference": null
-    }
-  ],
   "십자가를 질 수 있나": [
     {
-      "type": "code_rule",
-      "location": "40",
-      "code": "G",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "40",
-      "code": [
-        "G",
-        "A♭"
-      ],
+      "code": ["G", "A♭"],
       "reference": null
     },
     {
@@ -4176,60 +3837,19 @@
       "reference": null
     }
   ],
-  "아 하나님의 은혜로": [
-    {
-      "type": "code_rule",
-      "location": "44",
-      "code": "G",
-      "reference": null
-    },
-    {
-      "type": "service",
-      "location": "44",
-      "code": [
-        "G",
-        "E♭"
-      ],
-      "reference": null
-    },
-    {
-      "type": "hymn",
-      "location": "310",
-      "code": null,
-      "reference": null
-    }
-  ],
   "예수나 거느리시니": [
     {
-      "type": "code_rule",
-      "location": "48",
-      "code": "C",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "48",
-      "code": [
-        "C",
-        "E♭"
-      ],
+      "code": ["C", "E♭"],
       "reference": null
     }
   ],
   "예수 나를 위하여": [
     {
-      "type": "code_rule",
-      "location": "52",
-      "code": "F",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "52",
-      "code": [
-        "F",
-        "F"
-      ],
+      "code": ["F", "F"],
       "reference": null
     },
     {
@@ -4241,18 +3861,9 @@
   ],
   "예수는 나의 힘이요": [
     {
-      "type": "code_rule",
-      "location": "56",
-      "code": "G",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "56",
-      "code": [
-        "G",
-        "A♭"
-      ],
+      "code": ["G", "A♭"],
       "reference": null
     },
     {
@@ -4264,52 +3875,25 @@
   ],
   "예수를 나의 구주삼고": [
     {
-      "type": "code_rule",
-      "location": "60",
-      "code": "D",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "60",
-      "code": [
-        "D",
-        "D"
-      ],
+      "code": ["D", "D"],
       "reference": null
     }
   ],
   "주 예수 내가 알기전": [
     {
-      "type": "code_rule",
-      "location": "68",
-      "code": "G",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "68",
-      "code": [
-        "G",
-        "A♭"
-      ],
+      "code": ["G", "A♭"],
       "reference": null
     }
   ],
   "주 예수보다 더 귀한 것은 없네": [
     {
-      "type": "code_rule",
-      "location": "72",
-      "code": "D",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "72",
-      "code": [
-        "D",
-        "D♭"
-      ],
+      "code": ["D", "D♭"],
       "reference": null
     },
     {
@@ -4321,18 +3905,9 @@
   ],
   "주 하나님 지으신 모든 세계": [
     {
-      "type": "code_rule",
-      "location": "78",
-      "code": "B",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "78",
-      "code": [
-        "B♭",
-        "B♭"
-      ],
+      "code": ["B♭", "B♭"],
       "reference": null
     },
     {
@@ -4344,31 +3919,14 @@
   ],
   "참 아름다워라": [
     {
-      "type": "code_rule",
-      "location": "82",
-      "code": "C",
-      "reference": null
-    },
-    {
       "type": "service",
       "location": "82",
-      "code": [
-        "C",
-        "E♭"
-      ],
+      "code": ["C", "E♭"],
       "reference": null
     },
     {
       "type": "hymn",
       "location": "478",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "만복의 근원 하나님": [
-    {
-      "type": "hymn",
-      "location": "1",
       "code": null,
       "reference": null
     }
@@ -4399,14 +3957,6 @@
     {
       "type": "hymn",
       "location": "5",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "목소리 높여서": [
-    {
-      "type": "hymn",
-      "location": "6",
       "code": null,
       "reference": null
     }
@@ -4531,14 +4081,6 @@
       "reference": null
     }
   ],
-  "만유의 주 앞에": [
-    {
-      "type": "hymn",
-      "location": "22",
-      "code": null,
-      "reference": null
-    }
-  ],
   "만 입이 내게 있으면": [
     {
       "type": "hymn",
@@ -4559,14 +4101,6 @@
     {
       "type": "hymn",
       "location": "25",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "구세주를 아는 이들": [
-    {
-      "type": "hymn",
-      "location": "26",
       "code": null,
       "reference": null
     }
@@ -4599,22 +4133,6 @@
     {
       "type": "hymn",
       "location": "31",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "만유의 주재": [
-    {
-      "type": "hymn",
-      "location": "32",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "영광스런 주를 보라": [
-    {
-      "type": "hymn",
-      "location": "33",
       "code": null,
       "reference": null
     }
@@ -4653,14 +4171,6 @@
     {
       "type": "hymn",
       "location": "39",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "찬송으로 보답할 수 없는": [
-    {
-      "type": "hymn",
-      "location": "40",
       "code": null,
       "reference": null
     }
@@ -4761,14 +4271,6 @@
       "reference": null
     }
   ],
-  "주여 복을 구하오니": [
-    {
-      "type": "hymn",
-      "location": "54",
-      "code": null,
-      "reference": null
-    }
-  ],
   "주 이름으로 모였던": [
     {
       "type": "hymn",
@@ -4813,14 +4315,6 @@
     {
       "type": "hymn",
       "location": "60",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "우리가 기다리던": [
-    {
-      "type": "hymn",
-      "location": "61",
       "code": null,
       "reference": null
     }
@@ -5017,14 +4511,6 @@
       "reference": null
     }
   ],
-  "내 진정 사모하는": [
-    {
-      "type": "hymn",
-      "location": "88",
-      "code": null,
-      "reference": null
-    }
-  ],
   "샤론의 꽃 예수": [
     {
       "type": "hymn",
@@ -5183,14 +4669,6 @@
       "reference": null
     }
   ],
-  "고요하고 거룩한 밤": [
-    {
-      "type": "hymn",
-      "location": "110",
-      "code": null,
-      "reference": null
-    }
-  ],
   "귀중한 보배합을": [
     {
       "type": "hymn",
@@ -5239,26 +4717,10 @@
       "reference": null
     }
   ],
-  "영광 나라 천사들아": [
-    {
-      "type": "hymn",
-      "location": "118",
-      "code": null,
-      "reference": null
-    }
-  ],
   "옛날 임금 다윗성에": [
     {
       "type": "hymn",
       "location": "119",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "오 베들레헴 작은 골": [
-    {
-      "type": "hymn",
-      "location": "120",
       "code": null,
       "reference": null
     }
@@ -5415,14 +4877,6 @@
       "reference": null
     }
   ],
-  "왕 되신 우리 주께": [
-    {
-      "type": "hymn",
-      "location": "140",
-      "code": null,
-      "reference": null
-    }
-  ],
   "시온에 오시는 주": [
     {
       "type": "hymn",
@@ -5467,14 +4921,6 @@
     {
       "type": "hymn",
       "location": "148",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "주 달려 죽은 십자가": [
-    {
-      "type": "hymn",
-      "location": "149",
       "code": null,
       "reference": null
     }
@@ -5611,14 +5057,6 @@
     {
       "type": "hymn",
       "location": "166",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "즐겁도다 이 날": [
-    {
-      "type": "hymn",
-      "location": "167",
       "code": null,
       "reference": null
     }
@@ -5831,14 +5269,6 @@
       "reference": null
     }
   ],
-  "저 하늘 거룩하신 주여": [
-    {
-      "type": "hymn",
-      "location": "194",
-      "code": null,
-      "reference": null
-    }
-  ],
   "성령이여 우리 찬송 부를 때": [
     {
       "type": "hymn",
@@ -5859,14 +5289,6 @@
     {
       "type": "hymn",
       "location": "197",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "주 예수 해변서": [
-    {
-      "type": "hymn",
-      "location": "198",
       "code": null,
       "reference": null
     }
@@ -5951,14 +5373,6 @@
       "reference": null
     }
   ],
-  "값비싼 향유를 주께 드린": [
-    {
-      "type": "hymn",
-      "location": "211",
-      "code": null,
-      "reference": null
-    }
-  ],
   "겸손히 주를 섬길 때": [
     {
       "type": "hymn",
@@ -5983,14 +5397,6 @@
       "reference": null
     }
   ],
-  "성자의 귀한 몸": [
-    {
-      "type": "hymn",
-      "location": "216",
-      "code": null,
-      "reference": null
-    }
-  ],
   "하나님이 말씀하시기를": [
     {
       "type": "hymn",
@@ -6003,14 +5409,6 @@
     {
       "type": "hymn",
       "location": "218",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "주 하나님의 사랑은": [
-    {
-      "type": "hymn",
-      "location": "219",
       "code": null,
       "reference": null
     }
@@ -6223,14 +5621,6 @@
       "reference": null
     }
   ],
-  "나 가나안 땅 귀한 성에": [
-    {
-      "type": "hymn",
-      "location": "246",
-      "code": null,
-      "reference": null
-    }
-  ],
   "보아라 저 하늘에": [
     {
       "type": "hymn",
@@ -6315,14 +5705,6 @@
     {
       "type": "hymn",
       "location": "257",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "샘물과 같은 보혈은": [
-    {
-      "type": "hymn",
-      "location": "258",
       "code": null,
       "reference": null
     }
@@ -6475,14 +5857,6 @@
     {
       "type": "hymn",
       "location": "278",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "천부여 의지 없어서": [
-    {
-      "type": "hymn",
-      "location": "280",
       "code": null,
       "reference": null
     }
@@ -6735,14 +6109,6 @@
       "reference": null
     }
   ],
-  "내 구주 예수를 더욱 사랑": [
-    {
-      "type": "hymn",
-      "location": "314",
-      "code": null,
-      "reference": null
-    }
-  ],
   "주여 나의 생명": [
     {
       "type": "hymn",
@@ -6879,14 +6245,6 @@
       "reference": null
     }
   ],
-  "위대하신 주를": [
-    {
-      "type": "hymn",
-      "location": "334",
-      "code": null,
-      "reference": null
-    }
-  ],
   "크고 놀라운 평화가": [
     {
       "type": "hymn",
@@ -6931,14 +6289,6 @@
     {
       "type": "hymn",
       "location": "340",
-      "code": null,
-      "reference": null
-    }
-  ],
-  "십자가를 내가 지고": [
-    {
-      "type": "hymn",
-      "location": "341",
       "code": null,
       "reference": null
     }

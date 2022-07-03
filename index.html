@@ -6,12 +6,64 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link rel="stylesheet" href="css.css">
+    <link type="image/x-icon" rel="shortcut icon" href="images/fly.png">
 
     <title>SONG</title>
 
     <script src="codes.js" defer></script>   
 </head>
 <body>
-    <p id="ptag">hellow</p>
+    <header>
+        <div id="title">
+            <h1><af-t>Score Finder</af-t></h1>
+        </div>
+    </header>
+
+    <main>
+        <div class="search-box">
+            <input type="text" placeholder="검색할 악보를 입력하세요.">
+        </div>
+        <div class="search-option-box">
+            <h2></h2>
+            <div class="search-options">
+                <input type="checkbox" id="ccm" hidden checked>
+                <label class="option" for="ccm">
+                    <h3><af-t>CCM</af-t><br><af-t>반주곡집</af-t></h3>
+                </label>
+
+                <input type="checkbox" id="chan" hidden checked>
+                <label class="option" for="chan">
+                    <h3><af-t>기쁨으로</af-t><br><af-t>찬양</af-t></h3>
+                </label>
+
+                <input type="checkbox" id="worshiper" hidden checked>
+                <label class="option" for="worshiper">
+                    <h3><af-t>피아노</af-t><br><af-t>예배자 1</af-t></h3>
+                </label>
+
+                <input type="checkbox" id="code_rule" hidden checked>
+                <label class="option" for="code_rule">
+                    <h3><af-t>찬송가</af-t><br><af-t>코드 반주법</af-t></h3>
+                </label>
+
+                <input type="checkbox" id="service" hidden checked>
+                <label class="option" for="service">
+                    <h3><af-t>찬송가</af-t><br><af-t>편곡집</af-t></h3>
+                </label>
+
+                <input type="checkbox" id="hymn" hidden checked>
+                <label class="option" for="hymn">
+                    <h3><af-t>새찬송가</af-t></h3>
+                </label>
+            </div>
+        </div>
+        <div id="search-result"><af-t>검색할 악보를 입력하세요.</af-t></div>
+        <article class="musicbox"></article>
+    </main>
+
+    <footer>
+        footer
+    </footer>
+    
 </body>
 </html>

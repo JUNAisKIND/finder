@@ -1,0 +1,11 @@
+ccm 1-5 : CCM 반주곡집 {num}
+
+chan : 기쁨으로 찬양
+
+worshiper : 피아노 예배자 1
+
+code_rule: 찬송가 코드 반주법
+
+service: 찬송가 편곡집
+
+hymn: 새찬송가

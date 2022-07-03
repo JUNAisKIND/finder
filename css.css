@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@font-face {
+  font-family: "teen";
+  src: url("teen.ttf")
+}
+:root {
+
+  /* font */
+  --font-default: sans-serif;
+  --font-jua: 'Jua', var(--font-default);
+  --font-teen: 'teen', var(--font-default);
+
+  /* color */
+  --color-white: #f0f4f5;
+  --color-title: #BEA7FF;
+  --color-title-dark: #f08383;
+}
+
+* {
+  font-family: var(--font-jua);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  color: var(--color-title);
+}
+
+header #title {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+header::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  left: 0;
+  border-bottom: 5px solid var(--color-title);
+}
+
+main {
+  margin-top: 30px;
+  text-align: center;
+
+  overflow: hidden;
+}
+
+main .search-box {
+  display: flex;
+  justify-content: center;
+}
+
+main .search-box input {
+
+  width: 60vw;
+  height: 5vw;
+  font-size: 4vw;
+  padding: 10px;
+
+  font-family: var(--font-teen);
+
+  border-radius: 10px;
+  outline: 0;
+  border: 4px solid var(--color-title);
+  color: #737373;
+}
+
+main .search-option-box {
+  margin-top: 15px;
+}
+
+main .search-option-box h2::after{
+  content: "검색 옵션";
+  color: #737373;
+}
+
+main .search-options {
+  background-color: #acacac;
+  padding: 15px 0;
+  margin-top: 5px;
+
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+main .search-options .option {
+  background-color: var(--color-title-dark);
+  width: 15vw;
+  height: 10vw;
+
+  font-size: 2.5vw;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  cursor: pointer;
+}
+
+main .search-options input:checked + .option {
+  background-color: var(--color-title);
+}
+
+main #search-result {
+  margin-top: 10px;
+  color: #575757;
+}
+
+main .musicbox {
+  margin-top: 15px;
+  height: 300px;
+  display: flex;
+
+  flex-direction: column;
+  align-items: center;
+
+  overflow: scroll;
+
+  border-bottom: 4px solid var(--color-title);
+}
+
+main .musicbox .titlebox {
+  text-align: left;
+  width: 90%;
+  color: #737373;
+}
+
+main .musicbox article {
+  background-color: #acacac;
+  margin-bottom: 10px;
+  padding: 10px 20px;
+  width: 90%;
+
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: space-between;
+
+}
+
+
+main .musicbox article .head {
+  display: flex;
+  justify-content: center;
+}
+
+main .musicbox article .head .title, .location {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+
+  word-break: keep-all;
+}
+
+main .musicbox article .head .codebox {
+  display: flex;
+  align-items: center;
+  list-style: none;
+
+}
+
+main .musicbox article .head .codebox .code {
+  background-color: #737373;
+  margin-right: 10px;
+  width: 25px;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+main .musicbox article .footer {
+  display: flex;
+  text-align: start;
+
+  overflow: scroll;
+  word-break: break-all;
+}
