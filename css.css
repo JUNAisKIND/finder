@@ -111,9 +111,6 @@ main #search-result {
 
 main .musicbox {
   margin-top: 15px;
-
-  height: 600px;
-
   display: flex;
 
   flex-direction: column;
@@ -134,9 +131,11 @@ main .musicbox .music-section {
 }
 
 main .musicbox .music-section .titlebox {
-  text-align: left;
+  text-align: center;
   width: 90%;
   color: #737373;
+
+  word-break: keep-all;
 }
 
 main .musicbox .music-section article {
@@ -187,14 +186,16 @@ main .musicbox .music-section article .footer {
 
   overflow: scroll;
   word-break: break-all;
-}
 
-footer {
-  position: absolute;
-  bottom: 0;
   width: 100%;
-  height: 50px;
-  background-color: #575757;
+  
+  margin-top: 0;
+  margin-left: 3px;
+
+  padding-left: 5px;
+
+  border-left: 2px solid #575757;
+  border-top: none;
 }
 
 @media screen and (min-width: 430px) {
@@ -237,5 +238,15 @@ footer {
     align-items: center;
     width: 100%;
   
+  }
+
+  main .musicbox .music-section article .footer {
+    margin-top: 3px;
+    margin-left: 0;
+
+    padding-left: 0;
+
+    border-left: none;
+    border-top: 2px solid #575757;
   }
 }
