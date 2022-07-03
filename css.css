@@ -112,7 +112,7 @@ main #search-result {
 main .musicbox {
   margin-top: 15px;
 
-  height: 300px;
+  height: 400px;
 
   display: flex;
 
@@ -219,7 +219,6 @@ footer {
   }
 
   main .musicbox {
-
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
