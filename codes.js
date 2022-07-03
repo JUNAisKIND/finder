@@ -113,14 +113,20 @@ function update() {
   );
 
   for(let element of getSongsContainsWith(input.value, admit)) {
+
+    const parent = document.createElement("section");
     const newItem_div = document.createElement("div");
     const newItem_article = document.createElement("article");
 
+
+    parent.className = "music-section";
     newItem_div.className = "titlebox";
     newItem_div.innerHTML = `<h3><af-t>${element[0]}</af-t></h3>`;
     newItem_article.innerHTML = returnScorebox(element[1]);;
-    musicbox.appendChild(newItem_div);
-    musicbox.appendChild(newItem_article);
+    parent.appendChild(newItem_div);
+    parent.appendChild(newItem_article);
+
+    musicbox.append(parent)
   }
 
   const num = musicbox.getElementsByTagName("article").length;
